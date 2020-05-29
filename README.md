@@ -1,7 +1,8 @@
-# Intro to Python  
- 
-## In Mandarin
-#### By Lilia
+# Intro to Python in Mandarin
+
+
+
+#### Dedicated to my sister
 
 
 ***
