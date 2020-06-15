@@ -2,7 +2,7 @@
 
 
 
-#### Dedicated to my sister 
+#### Dedicated to my sister who said programming was hard and boring
 
 
 ***
