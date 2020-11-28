@@ -15,12 +15,12 @@
 
 ### [02 Accumulation](notes/02.md)
 
-### [03 Function](https://drive.google.com/open?id=1raYBxFCRJQc8h3d_1nP_EzEhRNccGhB7jDSZZ5DalBM)
+### [03 Function](notes/03.md)
+
+### [04 String](notes/04.md)
 
 *** 
 working on
-
-### [04 String](https://drive.google.com/open?id=1GpK2CLJuoOnCm9dLDH0o-USithKhrdkbr6VoeG-SU8Q)
 
 ### [05 List](https://drive.google.com/open?id=1bnZ-lZrkhTS3kl55Defj8fM4l9B2MYxVCjAkTdvDJd0)
 
