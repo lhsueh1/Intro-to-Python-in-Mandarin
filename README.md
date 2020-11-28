@@ -13,7 +13,7 @@
 
 ### [01 Intro](https://docs.google.com/document/d/15KtH2y4eSzyZq0bn-RdbHuVSDxiKOGY_4sg6X9WyR1E/edit?usp=sharing)
 
-### [02 Accumulation](https://drive.google.com/open?id=1TR0NDiClopae1tcaAxJF8lgMmOfELmQU7_OiRh9z22M)
+### [02 Accumulation](notes/02.md)
 
 ### [03 Function](https://drive.google.com/open?id=1raYBxFCRJQc8h3d_1nP_EzEhRNccGhB7jDSZZ5DalBM)
 
